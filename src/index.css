@@ -1,0 +1,46 @@
+.form-control-new {
+  border-left: 0 !important;
+  border-right: 0;
+  border-top: 0;
+  border-radius: 0;
+  text-align: center;
+}
+
+.title-text {
+  color: rgb(214, 51, 132);
+  font-size: 1.4rem;
+}
+
+.breadcrumb-item {
+  cursor: pointer;
+}
+.other-link {
+  color: #ffbb0f;
+  text-align: center;
+  display: block;
+  cursor: pointer;
+  padding: 0.1rem;
+  font-size: 1.2rem;
+}
+.primary-color {
+  color: #ffbb0f;
+}
+.date_new {
+  color: #ffbb0f;
+  font-size: 50px;
+  font-weight: 300;
+}
+.date_new .sup {
+  text-transform: uppercase;
+  color: #7c2b00;
+  font-size: 18px;
+  font-weight: 500;
+}
+.date_new .sub {
+  font-size: 15px;
+  color: #818181;
+}
+.disabled-link,
+.disabled-link:hover {
+  color: #818181;
+}
