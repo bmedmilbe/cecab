@@ -1,11 +1,11 @@
+import React from "react";
 import InfiniteScroll from "react-infinite-scroll-component";
 import useAssossiationsInfinite from "../../hooks/assosiations/useAssossiationsInfinite";
 import PageHeader from "../components/PageHeader";
 import YearGols from "../components/YearGols";
-import Loader from "../components/Loader";
-import React from "react";
 import { NavLink } from "react-router-dom";
 import { getDay, getMonth, getYear } from "../../utils/dates";
+import Spinner from "../components/Spinner";
 const AssossiationsPage = () => {
   const query_param = {
     search: undefined,
@@ -20,7 +20,7 @@ const AssossiationsPage = () => {
         dataLength={length || 0} //This is important field to render the next data
         next={() => fetchNextPage()}
         hasMore={hasNextPage || false}
-        loader={<Loader />}
+        loader={<Spinner />}
         endMessage={
           <>
             <hr />
@@ -94,8 +94,6 @@ const AssossiationsPage = () => {
             ))}
           </div>
         )}
-
-        {isLoading && <Loader />}
       </InfiniteScroll>
       <div className="section-bg-white">
         <YearGols />
