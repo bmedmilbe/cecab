@@ -16,9 +16,10 @@ const About = () => {
             <div className="col-lg-6 col-md-12">
               <div className="about-text">
                 <p>
-                  Desde 2004 que estamos empenhados em Produzir e Exportar Cacau
-                  Biológico em diferentes Distritos de São Tomé e Príncipe
-                  através de Agricultores agrupados em associações.
+                  Desde 2004, a CECAB STP tem-se dedicado à produção e
+                  exportação sustentável de Cacau Biológico em São Tomé e
+                  Príncipe, trabalhando em estreita colaboração com associações
+                  de agricultores locais nos diversos Distritos.
                 </p>
 
                 <NavLink to={`/productions`}>

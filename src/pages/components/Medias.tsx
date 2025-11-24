@@ -20,10 +20,10 @@ const Medias = () => {
                   <BiCameraMovie />
                 </div>
 
-                <h3>Nossos Trabalhos</h3>
+                <h3>Projetos e Ações da Cooperativa</h3>
                 <p>
-                  Veja videos de algumas ações desencadeadas pela nossa
-                  cooperativa.
+                  Explore a nossa galeria de vídeos e conheça de perto as
+                  iniciativas da CECAB STP.
                 </p>
 
                 <NavLink to="/programs">
@@ -47,10 +47,11 @@ const Medias = () => {
                   <BiMusic />
                 </div>
 
-                <h3>Banda CECAB</h3>
+                <h3>Enfatizando a Cultura</h3>
                 <p>
-                  Temos uma banda que frequentemente leva às comunidades
-                  agrícolas temâtica de grande interesse e atualidade.
+                  Através da música, a nossa banda atua frequentemente nas
+                  comunidades, abordando temas relevantes de forma culturalmente
+                  próxima e impactante.{" "}
                 </p>
 
                 <NavLink to="/bands">

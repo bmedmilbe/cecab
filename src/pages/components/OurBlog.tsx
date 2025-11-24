@@ -14,11 +14,11 @@ const OurBlog = () => {
       <section className="blog-area">
         <div className="container">
           <div className="section-title">
-            <span className="sub-title">Nosso Blog</span>
-            <h2>Actividades e Realizações</h2>
+            <span className="sub-title">Blog CECAB</span>
+            <h2>Notícias e Realizações</h2>
             <p>
-              A CECAB no dia a dia, desencadeia várias ações que acreditamos ser
-              do interesse público.
+              Descubra as atividades diárias da CECAB STP, o impacto nas
+              comunidades e todas as iniciativas que são do interesse público.
             </p>
           </div>
 

@@ -12,8 +12,12 @@ const OurTeamSlider = () => {
         <div className="container">
           <div className="section-title">
             <span className="sub-title">Nossa Equipa</span>
-            <h2>Conheça a Direção da CECAB</h2>
-            <p>A CECAB é dirigida por ....</p>
+            <h2>Quem Nos Dirige</h2>
+            <p>
+              Descubra a equipa de gestão que, eleita pelas associações,
+              impulsiona as operações da CECAB STP e representa os interesses
+              dos agricultores.
+            </p>
           </div>
 
           <Swiper

@@ -37,25 +37,29 @@ const WhyChooseUs = () => {
                       {/* <i className="flaticon-knowledge"></i> */}
                       <BsTextareaResize />
                     </div>
-                    <span>Área Cacauzal</span>
-                    STP tem uma grande extensão de área cacauzal implementadas
-                    desde os séc. XIX.
+                    <span>Herança e Extensão</span>
+                    São Tomé e Príncipe possui uma vasta área de cacauzal,
+                    cultivada e aperfeiçoada desde o século XIX, testemunhando
+                    uma rica história agrícola.
                   </li>
 
                   <li>
                     <div className="icon">
                       <FaCertificate />
                     </div>
-                    <span>Certificação Biológica</span>A Certificação Biológica
-                    garante a qualidade e facilita a exportação
+                    <span>Qualidade e Mercado</span>A Certificação Biológica é a
+                    nossa garantia de qualidade superior, essencial para cumprir
+                    padrões internacionais e facilitar a exportação do nosso
+                    cacau.
                   </li>
                   <li>
                     <div className="icon">
                       <GiHealthPotion />{" "}
                     </div>
-                    <span>Melhor Saúde</span>
-                    Por ser um produto biológico, a saúde do consumidor estará
-                    garantida
+                    <span>Benefício ao Consumidor</span>
+                    Por ser um produto biológico puro, o nosso cacau assegura a
+                    saúde e o bem-estar do consumidor, livre de aditivos
+                    químicos.
                   </li>
 
                   <li>
@@ -63,9 +67,10 @@ const WhyChooseUs = () => {
                       {/* <i className="flaticon-location"></i> */}
                       <RiCheckboxFill />
                     </div>
-                    <span>Riqueza do Sólo</span>
-                    São Tomé e Príncipe por ter um solo fértil permite a
-                    produção de muito boa qualidade
+                    <span>Terroir Único</span>
+                    Graças ao solo fértil e rico de São Tomé e Príncipe,
+                    produzimos um cacau de qualidade excecional, refletindo a
+                    generosidade da nossa terra.
                   </li>
 
                   <li>
@@ -73,9 +78,10 @@ const WhyChooseUs = () => {
                       {/* <i className="flaticon-taxi"></i> */}
                       <GiChocolateBar />
                     </div>
-                    <span>Chocolate de Cacau</span>
-                    Aproveitar o cacau e produzir chocolate de qualidade em São
-                    Tomé e Príncipe
+                    <span>Transformação Local</span>O nosso objetivo é valorizar
+                    a matéria-prima, transformando o nosso cacau de excelência
+                    em chocolate de qualidade superior, feito em São Tomé e
+                    Príncipe.
                   </li>
 
                   <li>
@@ -83,9 +89,9 @@ const WhyChooseUs = () => {
                       {/* <i className="flaticon-calendar"></i> */}
                       <RiTeamFill />
                     </div>
-                    <span>Trabalho em Equipa</span>
-                    Diferentes associações trabalham em conjunto e garantem a
-                    produção, ano após ano
+                    <span>Sinergia da Cooperativa</span>O trabalho colaborativo
+                    entre as diferentes associações garante uma produção estável
+                    e contínua de cacau, ano após ano.
                   </li>
                 </ul>
               </div>

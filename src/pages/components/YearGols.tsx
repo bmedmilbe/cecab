@@ -16,7 +16,9 @@ const YearGols = () => {
           <div className="section-title">
             <h2>Nosso crescimento</h2>
             <p>
-              Desde 2004 que trabalhamos dedicadamente para produzir e crescer
+              A nossa história de produção e crescimento iniciou-se em 2004, com
+              foco na excelência do cacau biológico e no desenvolvimento da
+              cooperativa.{" "}
             </p>
           </div>
 
