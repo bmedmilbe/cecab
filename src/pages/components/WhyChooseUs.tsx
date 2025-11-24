@@ -18,7 +18,7 @@ const WhyChooseUs = () => {
         <div className="row">
           <div className="col-lg-5 col-md-12">
             <div className="why-choose-us-image">
-              <img src="/images/about/cacau13.jpg" alt="image" />
+              <img src="images/about/cacau13.JPG" alt="why choose CECAB" />
             </div>
           </div>
 
